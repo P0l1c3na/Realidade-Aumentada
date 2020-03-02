@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 61fb5038232ae3c4bb7872353f4b7b70
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bagage
+    100002: bagage1
+    100004: bodyshell
+    100006: bonnet
+    100008: Box001
+    100010: brakes003
+    100012: //RootNode
+    100014: console
+    100016: door1
+    100018: door2
+    100020: door3
+    100022: engine
+    100024: face1
+    100026: glass1
+    100028: glass2
+    100030: gridrad
+    100032: grille
+    100034: interior1
+    100036: light
+    100038: light2
+    100040: logo
+    100042: protection
+    100044: r1
+    100046: rins
+    100048: rins001
+    100050: rins002
+    100052: rins003
+    100054: seats1
+    100056: seats2
+    100058: tire
+    100060: tire001
+    100062: tire002
+    100064: tire003
+    100066: under
+    100068: wind1
+    100070: wind2
+    100072: wind3
+    100074: zapaska
+    100076: zapaska002
+    100078: zt013
+    100080: zt014
+    400000: bagage
+    400002: bagage1
+    400004: bodyshell
+    400006: bonnet
+    400008: Box001
+    400010: brakes003
+    400012: //RootNode
+    400014: console
+    400016: door1
+    400018: door2
+    400020: door3
+    400022: engine
+    400024: face1
+    400026: glass1
+    400028: glass2
+    400030: gridrad
+    400032: grille
+    400034: interior1
+    400036: light
+    400038: light2
+    400040: logo
+    400042: protection
+    400044: r1
+    400046: rins
+    400048: rins001
+    400050: rins002
+    400052: rins003
+    400054: seats1
+    400056: seats2
+    400058: tire
+    400060: tire001
+    400062: tire002
+    400064: tire003
+    400066: under
+    400068: wind1
+    400070: wind2
+    400072: wind3
+    400074: zapaska
+    400076: zapaska002
+    400078: zt013
+    400080: zt014
+    2100000: blackplast
+    2100002: Chrome
+    2100004: sticker
+    2100006: 'Material #9570'
+    2100008: stuf
+    2100010: blackplast1
+    2100012: 'Material #9571'
+    2100014: 'Material #6873'
+    2100016: sticker1
+    2100018: tyre
+    2100020: frlight
+    2100022: 'Material #7388'
+    2100024: 'Material #7390'
+    2100026: default
+    2100028: 'Material #9457'
+    2100030: 'Material #7548'
+    2100032: grille
+    2100034: inter01
+    2100036: logo
+    2100038: 'Material #12186'
+    2100040: 'Material #7582'
+    2100042: 'Material #7389'
+    2100044: 'Material #12163'
+    2100046: tree
+    2100048: 'Material #7381'
+    2100050: blackplast11
+    2100052: frlight1
+    2100054: blackplast12
+    2100056: inter011
+    2300000: bagage
+    2300002: bagage1
+    2300004: bodyshell
+    2300006: bonnet
+    2300008: Box001
+    2300010: brakes003
+    2300012: console
+    2300014: door1
+    2300016: door2
+    2300018: door3
+    2300020: engine
+    2300022: face1
+    2300024: glass1
+    2300026: glass2
+    2300028: gridrad
+    2300030: grille
+    2300032: interior1
+    2300034: light
+    2300036: light2
+    2300038: logo
+    2300040: protection
+    2300042: r1
+    2300044: rins
+    2300046: rins001
+    2300048: rins002
+    2300050: rins003
+    2300052: seats1
+    2300054: seats2
+    2300056: tire
+    2300058: tire001
+    2300060: tire002
+    2300062: tire003
+    2300064: under
+    2300066: wind1
+    2300068: wind2
+    2300070: wind3
+    2300072: zapaska
+    2300074: zapaska002
+    2300076: zt013
+    2300078: zt014
+    3300000: bagage
+    3300002: bagage1
+    3300004: bodyshell
+    3300006: bonnet
+    3300008: Box001
+    3300010: brakes003
+    3300012: console
+    3300014: door1
+    3300016: door2
+    3300018: door3
+    3300020: engine
+    3300022: face1
+    3300024: glass1
+    3300026: glass2
+    3300028: gridrad
+    3300030: grille
+    3300032: interior1
+    3300034: light
+    3300036: light2
+    3300038: logo
+    3300040: protection
+    3300042: r1
+    3300044: rins
+    3300046: rins001
+    3300048: rins002
+    3300050: rins003
+    3300052: seats1
+    3300054: seats2
+    3300056: tire
+    3300058: tire001
+    3300060: tire002
+    3300062: tire003
+    3300064: under
+    3300066: wind1
+    3300068: wind2
+    3300070: wind3
+    3300072: zapaska
+    3300074: zapaska002
+    3300076: zt013
+    3300078: zt014
+    4300000: logo
+    4300002: gridrad
+    4300004: Box001
+    4300006: tire
+    4300008: wind1
+    4300010: bagage1
+    4300012: r1
+    4300014: protection
+    4300016: zapaska
+    4300018: brakes003
+    4300020: glass1
+    4300022: seats2
+    4300024: bonnet
+    4300026: face1
+    4300028: console
+    4300030: grille
+    4300032: engine
+    4300034: zt013
+    4300036: zt014
+    4300038: door2
+    4300040: wind2
+    4300042: wind3
+    4300044: bagage
+    4300046: bodyshell
+    4300048: light
+    4300050: glass2
+    4300052: under
+    4300054: seats1
+    4300056: light2
+    4300058: door3
+    4300060: zapaska002
+    4300062: interior1
+    4300064: door1
+    4300066: rins
+    4300068: rins001
+    4300070: tire001
+    4300072: rins002
+    4300074: rins003
+    4300076: tire002
+    4300078: tire003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

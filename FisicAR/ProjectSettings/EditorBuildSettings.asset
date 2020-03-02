@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cd6bff5908c89074387e6af162b5313d
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 8937396b84b38bd47b86660d0a732301
+  - enabled: 1
+    path: Assets/Scenes/explicacaoVelocidade.unity
+    guid: 57cb882b76aa7a54db41f4eac00a6538
+  - enabled: 1
+    path: Assets/Scenes/velocityex.unity
+    guid: 3fe6247a12d06144b98cc3bce734983d
+  - enabled: 1
+    path: Assets/Scenes/instrucao.unity
+    guid: 5c2561cacb7369247ad37f2ab6b7a668
+  - enabled: 1
+    path: Assets/Scenes/velocidade.unity
+    guid: 25cff3b4761bcf6458a3807fb466d0ab
+  - enabled: 1
+    path: Assets/Scenes/dsa.unity
+    guid: 2b6604170b657a641aefe5ff85e21a7a
+  - enabled: 1
+    path: Assets/Scenes/info.unity
+    guid: c6607013313c26f4d9b56b42593ab7ae
